@@ -1,8 +1,6 @@
 
 ---
 
-## ✅ Script file (save as `script/excel-sft-dashboard.ts`)
-
 ```javascript
 /**
  * Excel SFT Transformation Script (Office.js / Script Lab)
